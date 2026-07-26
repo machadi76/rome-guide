@@ -23,11 +23,11 @@
       "subCategory": "",
       "day": null,
       "coordinates": {
-        "lat": 41.89933,
-        "lon": 12.46695
+        "lat": 41.898721,
+        "lon": 12.46485
       },
       "links": {
-        "googleMaps": "https://www.google.com/maps/search/?api=1&query=41.89933,12.46695",
+        "googleMaps": "https://www.google.com/maps/search/?api=1&query=41.898721,12.46485",
         "localPage": ""
       },
       "practical": {
@@ -258,11 +258,11 @@
       "subCategory": "",
       "day": 27,
       "coordinates": {
-        "lat": 41.89933,
-        "lon": 12.46695
+        "lat": 41.898721,
+        "lon": 12.46485
       },
       "links": {
-        "googleMaps": "https://www.google.com/maps/search/?api=1&query=41.89933,12.46695",
+        "googleMaps": "https://www.google.com/maps/search/?api=1&query=41.898721,12.46485",
         "localPage": ""
       },
       "practical": {
@@ -1199,11 +1199,11 @@
       "subCategory": "",
       "day": 30,
       "coordinates": {
-        "lat": 41.89908,
-        "lon": 12.46484
+        "lat": 41.898721,
+        "lon": 12.46485
       },
       "links": {
-        "googleMaps": "https://www.google.com/maps/search/?api=1&query=41.89908,12.46484",
+        "googleMaps": "https://www.google.com/maps/search/?api=1&query=41.898721,12.46485",
         "localPage": ""
       },
       "practical": {
@@ -2917,11 +2917,11 @@
       "subCategory": "",
       "day": 30,
       "coordinates": {
-        "lat": 41.89933,
-        "lon": 12.46695
+        "lat": 41.898721,
+        "lon": 12.46485
       },
       "links": {
-        "googleMaps": "https://www.google.com/maps/search/?api=1&query=41.89933,12.46695",
+        "googleMaps": "https://www.google.com/maps/search/?api=1&query=41.898721,12.46485",
         "localPage": ""
       },
       "practical": {
@@ -3166,8 +3166,8 @@
       "day": 27,
       "coords": [
         {
-          "lon": 12.46695,
-          "lat": 41.89933
+          "lon": 12.46485,
+          "lat": 41.898721
         },
         {
           "lon": 12.48278,
@@ -3190,8 +3190,8 @@
           "lat": 41.89916
         },
         {
-          "lon": 12.46695,
-          "lat": 41.89933
+          "lon": 12.46485,
+          "lat": 41.898721
         }
       ]
     },
@@ -3200,8 +3200,8 @@
       "day": 28,
       "coords": [
         {
-          "lon": 12.46695,
-          "lat": 41.89933
+          "lon": 12.46485,
+          "lat": 41.898721
         },
         {
           "lon": 12.49223,
@@ -3240,8 +3240,8 @@
           "lat": 41.88292
         },
         {
-          "lon": 12.46695,
-          "lat": 41.89933
+          "lon": 12.46485,
+          "lat": 41.898721
         }
       ]
     },
@@ -3250,8 +3250,8 @@
       "day": 29,
       "coords": [
         {
-          "lon": 12.46695,
-          "lat": 41.89933
+          "lon": 12.46485,
+          "lat": 41.898721
         },
         {
           "lon": 12.45364,
@@ -3282,8 +3282,8 @@
           "lat": 41.90189
         },
         {
-          "lon": 12.46695,
-          "lat": 41.89933
+          "lon": 12.46485,
+          "lat": 41.898721
         }
       ]
     },
@@ -3292,8 +3292,8 @@
       "day": 30,
       "coords": [
         {
-          "lon": 12.46695,
-          "lat": 41.89933
+          "lon": 12.46485,
+          "lat": 41.898721
         },
         {
           "lon": 12.49219,
@@ -3324,8 +3324,8 @@
           "lat": 41.88949
         },
         {
-          "lon": 12.46695,
-          "lat": 41.89933
+          "lon": 12.46485,
+          "lat": 41.898721
         }
       ]
     }
