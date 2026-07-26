@@ -1,0 +1,57 @@
+{
+  "version": "3.3",
+  "checkedOn": "2026-07-26",
+  "verifiedAttractions": [
+    "Πάνθεον",
+    "Μουσεία Βατικανού",
+    "Καπέλα Σιστίνα",
+    "Κολοσσαίο",
+    "Ρωμαϊκή Αγορά",
+    "Παλατίνος",
+    "Castel Sant’Angelo",
+    "Villa Borghese"
+  ],
+  "verifiedPublicToilets": [
+    "P.Stop Piazza di Spagna",
+    "P.Stop Via Giuseppe Zanardelli / Piazza delle Cinque Lune",
+    "Δημόσια τουαλέτα Piazza del Colosseo",
+    "P.Stop Piazza della Città Leonina / Vaticano",
+    "Tourist Infopoint Fori Imperiali"
+  ],
+  "transportTickets": [
+    {
+      "name": "BIT",
+      "price": "€1.50",
+      "validity": "100 λεπτά"
+    },
+    {
+      "name": "ROMA 24H",
+      "price": "€8.50",
+      "validity": "24 ώρες από την πρώτη επικύρωση"
+    },
+    {
+      "name": "ROMA 48H",
+      "price": "€15.00",
+      "validity": "48 ώρες από την πρώτη επικύρωση"
+    },
+    {
+      "name": "ROMA 72H",
+      "price": "€22.00",
+      "validity": "72 ώρες από την πρώτη επικύρωση"
+    },
+    {
+      "name": "CIS",
+      "price": "€29.00",
+      "validity": "7 ημέρες"
+    }
+  ],
+  "remaining": [
+    "Specific nasoni along each daily route",
+    "Restaurant ratings/review counts/current prices",
+    "Cafe and gelato database",
+    "Day-by-day public transport routes",
+    "Shopping and pharmacies",
+    "Cyprus consular contacts in Italy",
+    "Photographs (intentionally last)"
+  ]
+}
