@@ -1,0 +1,10 @@
+{
+  "name": "Rome Guide 2026",
+  "short_name": "Rome 2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#9b3f31",
+  "lang": "el",
+  "description": "Προσωπικός οδηγός Ρώμης 27–31 Ιουλίου 2026"
+}

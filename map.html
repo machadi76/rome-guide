@@ -1,0 +1,22 @@
+<!doctype html><html lang="el"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Offline Χάρτης — Rome Guide</title>
+<link rel="stylesheet" href="assets/app-v2.css">
+<link rel="stylesheet" href="assets/app-v21.css">
+</head><body>
+<div class="offline-banner">📴 Offline λειτουργία</div>
+<header class="page-appbar"><a href="index.html">‹</a><div><small>ROME GUIDE 2.1</small><h1>Offline χάρτης</h1></div><button data-theme-toggle>◐</button></header>
+<main class="map-page">
+<div class="map-controls">
+<button class="chip active" data-filter="all">Όλα</button>
+<button class="chip" data-filter="attraction">🏛️ Αξιοθέατα</button>
+<button class="chip" data-filter="food">🍝 Φαγητό</button>
+<button class="chip" data-filter="hotel">🏨 Ξενοδοχείο</button>
+</div>
+<div class="schematic-map" id="schematicMap"><svg id="mapSvg" viewBox="0 0 1000 760" role="img" aria-label="Σχηματικός χάρτης Ρώμης"></svg></div>
+<p class="map-note">Ο χάρτης είναι σχηματικός και λειτουργεί πλήρως χωρίς internet. Για πραγματική πλοήγηση άνοιξε το Google Maps από την κάρτα ενός σημείου.</p>
+<div id="mapList" class="map-list"></div>
+</main>
+<script src="assets/portable-data.js"></script>
+<script src="assets/app-v2.js"></script><script src="assets/app-v21.js"></script>
+<script>RomeMap.init();</script></body></html>

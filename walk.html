@@ -1,0 +1,28 @@
+<!doctype html><html lang="el"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Walking Mode — Rome Guide</title>
+<link rel="stylesheet" href="assets/app-v2.css"><link rel="stylesheet" href="assets/app-v21.css">
+</head><body class="walk-body">
+<div class="offline-banner">📴 Offline λειτουργία</div>
+<header class="page-appbar"><a href="index.html">‹</a><div><small>WALKING MODE</small><h1 id="walkTitle">Ημερήσια διαδρομή</h1></div><button data-theme-toggle>◐</button></header>
+<main class="walk-page">
+<div class="day-selector">
+<button data-day="27">27/7</button><button data-day="28">28/7</button><button data-day="29">29/7</button><button data-day="30">30/7</button>
+</div>
+<section class="walk-focus">
+<div class="walk-progress"><span id="progressText"></span><div><i id="progressBar"></i></div></div>
+<div class="walk-emoji" id="walkEmoji">📍</div>
+<small id="walkStepLabel">ΕΠΟΜΕΝΗ ΣΤΑΣΗ</small>
+<h2 id="walkStop">—</h2>
+<p id="walkDistance">Πατήστε «Εντοπισμός» για υπολογισμό απόστασης.</p>
+<div class="walk-actions">
+<a id="walkNavigate" class="primary-action" target="_blank">📍 Πλοήγηση</a>
+<a id="walkRead" class="secondary-action">📖 Διάβασε</a>
+</div>
+</section>
+<div class="walk-buttons"><button id="prevStop">← Προηγούμενη</button><button id="locateMe">◎ Εντοπισμός</button><button id="nextStop">Επόμενη →</button></div>
+<section><h2>Όλες οι στάσεις</h2><div id="walkStops" class="walk-stop-list"></div></section>
+</main>
+<script src="assets/portable-data.js"></script>
+<script src="assets/app-v2.js"></script><script src="assets/app-v21.js"></script>
+<script>WalkingMode.init();</script></body></html>
