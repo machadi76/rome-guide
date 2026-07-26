@@ -1,7 +1,7 @@
 <!doctype html><html lang="el"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Πλήρης βιβλιοθήκη — Rome Guide 3.0</title>
-<link rel="stylesheet" href="assets/app-v2.css"><link rel="stylesheet" href="assets/app-v21.css"><link rel="stylesheet" href="assets/full-v3.css"></head>
+<link rel="stylesheet" href="assets/app-v2.css"><link rel="stylesheet" href="assets/app-v21.css"><link rel="stylesheet" href="assets/full-v3.css"><link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" href="assets/icons/icon-192.png"><link rel="stylesheet" href="assets/app-v4.css"></head>
 <body><header class="page-appbar"><a href="index.html">‹</a><div><small>ROME GUIDE 3.0</small><h1>Πλήρης βιβλιοθήκη</h1></div><button data-theme-toggle>◐</button></header>
 <main class="library-page"><section class="library-hero"><h2>Όλα τα κεφάλαια μέσα</h2>
 <p>Η βιβλιοθήκη δημιουργήθηκε απευθείας από τα αρχεία Word, χωρίς περίληψη. Περιλαμβάνει κείμενα, πίνακες και τις ενσωματωμένες εικόνες τους.</p>
@@ -86,4 +86,4 @@ document.querySelector('#chapterFilter').addEventListener('input',e=>{
  document.querySelectorAll('.chapter-link').forEach(a=>a.style.display=!q||a.dataset.search.includes(q)?'grid':'none');
  document.querySelectorAll('.group-block').forEach(g=>g.style.display=[...g.querySelectorAll('.chapter-link')].some(a=>a.style.display!=='none')?'block':'none');
 });
-</script></body></html>
+</script><script src="assets/app-v4.js"></script></body></html>
